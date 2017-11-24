@@ -1,5 +1,5 @@
 $(function(){
-	
+	   
 	var slideAuto = setInterval(slideGo, 3000);
 	
 	$('.slide_nav_item.g').click(function(){
